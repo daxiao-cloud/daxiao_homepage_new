@@ -32,11 +32,11 @@ export function DaxiaoNav() {
 						解决方案
 					</Link>
 				</NavbarItem>
-				<NavbarItem>
+				{/* <NavbarItem>
 					<Link color='foreground' href='#'>
 						研发引领
 					</Link>
-				</NavbarItem>
+				</NavbarItem> */}
 				<NavbarItem>
 					<Link color='foreground' href='#address'>
 						联系我们
