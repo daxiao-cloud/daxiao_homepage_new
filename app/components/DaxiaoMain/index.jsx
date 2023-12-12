@@ -1,6 +1,7 @@
 import { Home } from './Home';
 import { Introduction } from './Introduction';
 import { Solutions } from './Solutions';
+import { Address } from './Address';
 
 export function DaxiaoMain() {
 	return (
@@ -8,6 +9,7 @@ export function DaxiaoMain() {
 			<Home />
 			<Introduction />
 			<Solutions />
+			<Address />
 		</>
 	);
 }
