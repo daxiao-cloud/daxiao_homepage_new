@@ -15,7 +15,7 @@ export function Address() {
 			</div>
 			<Link href='https://surl.amap.com/3RWlpkqbKs'>
 				<div className='flex flex-row gap-4 items-center'>
-					<MapPinIcon class='h-6 w-6 text-secondary' />
+					<MapPinIcon className='h-6 w-6' />
 					<div>
 						<p className='text-xl'>上海虹桥国际中央商务区虹桥国际展汇1幢3楼</p>
 						<p className='text-sm'>上海市闵行区申昆路2377号</p>
@@ -24,7 +24,7 @@ export function Address() {
 			</Link>
 			<Link href='mailto:yunasha@daxiaogroup.com'>
 				<div className='flex flex-row gap-4 items-center'>
-					<EnvelopeIcon class='h-6 w-6 text-secondary' />
+					<EnvelopeIcon className='h-6 w-6' />
 					<p>邮箱：yunasha@daxiaogroup.com</p>
 				</div>
 			</Link>
