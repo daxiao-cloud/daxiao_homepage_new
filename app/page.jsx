@@ -1,4 +1,3 @@
-import { Image } from '@nextui-org/react';
 import { DaxiaoNav } from './components/DaxiaoNav';
 import { DaxiaoMain } from './components/DaxiaoMain';
 import { DaxiaoFooter } from './components/DaxiaoFooter';
