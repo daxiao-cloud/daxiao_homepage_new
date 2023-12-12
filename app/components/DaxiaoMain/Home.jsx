@@ -4,7 +4,7 @@ export function Home() {
 	return (
 		<div
 			id='home'
-			className='aspect-video flex flex-col items-center justify-center'
+			className='aspect-video flex flex-col items-center justify-center bg-blue-500'
 		>
 			<div className='flex flex-col items-center justify-center gap-4'>
 				<p className='text-6xl'>上海大晓智能科技有限公司</p>

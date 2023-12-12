@@ -2,7 +2,10 @@ import { Divider } from '@nextui-org/react';
 
 export function Introduction() {
 	return (
-		<div id='introduction' className='aspect-video flex flex-col gap-8 p-8'>
+		<div
+			id='introduction'
+			className='aspect-video flex flex-col gap-8 p-8 bg-gradient-to-b from-zinc-100 to-zinc-400'
+		>
 			<div className='w-fit flex flex-col gap-4'>
 				<p className='text-4xl'>公司介绍</p>
 				<Divider />
