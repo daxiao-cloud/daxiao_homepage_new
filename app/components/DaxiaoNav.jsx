@@ -18,17 +18,17 @@ export function DaxiaoNav() {
 			</NavbarBrand>
 			<NavbarContent className='hidden sm:flex gap-4' justify='center'>
 				<NavbarItem>
-					<Link color='foreground' href='#'>
+					<Link color='foreground' href='#home'>
 						首页
 					</Link>
 				</NavbarItem>
 				<NavbarItem>
-					<Link color='foreground' href='#'>
+					<Link color='foreground' href='#introduction'>
 						公司介绍
 					</Link>
 				</NavbarItem>
 				<NavbarItem>
-					<Link color='foreground' href='#'>
+					<Link color='foreground' href='#solutions'>
 						解决方案
 					</Link>
 				</NavbarItem>
@@ -38,7 +38,7 @@ export function DaxiaoNav() {
 					</Link>
 				</NavbarItem>
 				<NavbarItem>
-					<Link color='foreground' href='#'>
+					<Link color='foreground' href='#address'>
 						联系我们
 					</Link>
 				</NavbarItem>

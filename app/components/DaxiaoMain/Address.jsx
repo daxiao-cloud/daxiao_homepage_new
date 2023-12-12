@@ -3,7 +3,7 @@ import { MapPinIcon, EnvelopeIcon } from '@heroicons/react/24/solid';
 
 export function Address() {
 	return (
-		<div className='aspect-video flex flex-col gap-8 p-8'>
+		<div id='address' className='aspect-video flex flex-col gap-8 p-8'>
 			<div className='w-fit flex flex-col gap-4'>
 				<p className='text-4xl'>科技服务美好生活</p>
 				<Divider />
