@@ -6,7 +6,7 @@ export default function RootLayout({ children }) {
 		<html
 			suppressHydrationWarning
 			lang='cn'
-			className='light text-foreground bg-background'
+			className='bg-gradient-to-r from-cyan-200 to-blue-500'
 		>
 			<body>
 				<Providers>{children}</Providers>
